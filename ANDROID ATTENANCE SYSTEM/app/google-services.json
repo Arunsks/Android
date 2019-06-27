@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112257620137",
+    "firebase_url": "https://attenance-system-76d5f.firebaseio.com",
+    "project_id": "attenance-system-76d5f",
+    "storage_bucket": "attenance-system-76d5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112257620137:android:b4fba3fa7cec9c46",
+        "android_client_info": {
+          "package_name": "com.example.programmer.attenancesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112257620137-fi4b9pq3aup6poh2is7kbl60qlo3eli8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.programmer.attenancesystem",
+            "certificate_hash": "d619ba79e04c5f45d768ff50256358f06edc6776"
+          }
+        },
+        {
+          "client_id": "112257620137-h0ngqq8h4ot8keu7r4684aqnf3mpt6un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2K4odgWhTeNKEJ6Bc4nggkcod2SzoeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112257620137-h0ngqq8h4ot8keu7r4684aqnf3mpt6un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
